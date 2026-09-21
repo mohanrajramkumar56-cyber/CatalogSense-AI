@@ -388,5 +388,3 @@ This project has no explicit license file included yet. If you plan to share or 
 The project identity for this repository is: CatalogSense AI
 
 This branding reflects the product's purpose as an AI-assisted catalog metadata and governance solution for Databricks Unity Catalog.
-#   C a t a l o g S e n s e - A I  
- 
